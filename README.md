@@ -1,5 +1,7 @@
-# Wine_review_2018
+# Wine_review_NLP_simple_practice
+
 Can machine learning algorithms help Wine tasters?
+
 wine and pointsOne of my friend studied did his masters thesis about wine. Now he is one of the best wine tasters as well as i can say a wine specialist. one day we came to the point that, not all wine tasters are perfect and right. Therefore, he asked me to proof my hypothesis using data. Then i collected data from the internet via web-scraping and from the University of California Irvine's Machine Learning Repository.
 The UCI Machine Learning repository has two sets of wine data. One dataset contains information on red wines, and the other for white wines. i am not interested on the type of wines rather i am much interested on the people who taste wine across the globe as their main profession. Then once i downloaded the necessary inputs , its always important to develop or include the technical definition of the features description for the metadata. Based on my sources i would like to give the data dictionary as follows :-
 Data dictionaryWine variety and tasting dillemas
